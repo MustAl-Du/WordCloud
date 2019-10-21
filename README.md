@@ -1,3 +1,2 @@
 # WordCloud
-C# Sample to generate Word Cloud
-![alt text for image](../WordCloud/bin/Debug/WordCloud.JPG)
+C# Sample to generate word cloud ![WordCloud](https://github.com/MustAl-Du/WordCloud/blob/master/WordCloud/Sample/WordCloud.JPG)
